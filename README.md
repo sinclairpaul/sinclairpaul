@@ -12,6 +12,8 @@ I'm:
 If you like what I do you can always \
 [![Buy me a coffee][buymeacoffee-shield]][buymeacoffee]
 
+Or just give me a follow🚶‍♂️
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=sinclairpaul&show_icons=true)
 
 [twitter]: https://twitter.com/sinclairpaul
