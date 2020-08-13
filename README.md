@@ -7,7 +7,7 @@ I'm:
 - 🐦 On twitter here [@sinclairpaul][twitter], though I don't tweet much!
 
 - 🐶 A dog owner \
-![dog](https://github.com/sinclairpaul/sinclairpaul/blob/master/images/dog.jpg)]
+![dog](https://github.com/sinclairpaul/sinclairpaul/blob/master/images/dog.jpg)
 
 If you like what I do you can always \
 [![Buy me a coffee][buymeacoffee-shield]][buymeacoffee]
