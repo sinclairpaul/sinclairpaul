@@ -6,9 +6,10 @@ I'm:
 
 - 🐦 On twitter here [@sinclairpaul][twitter], though I don't tweet much!
 
-- 🐶 A dog owner [doripic]
+- 🐶 A dog owner \
+![dog](images/dog.jpg)
 
-If you like what I do you can always
+If you like what I do you can always \
 [![Buy me a coffee][buymeacoffee-shield]][buymeacoffee]
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=sinclairpaul&show_icons=true)
