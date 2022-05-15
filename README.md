@@ -10,12 +10,12 @@ I'm:
 ![dog](https://github.com/sinclairpaul/sinclairpaul/blob/master/images/dog.jpg)
 
 If you like what I do you can always \
-[![Buy me a coffee][buymeacoffee-shield]][buymeacoffee]
+[![Buy me a coffee][kofi-shield]][kofi]
 
 Or just give me a follow🚶‍♂️
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=sinclairpaul&show_icons=true)
 
 [twitter]: https://twitter.com/sinclairpaul
-[buymeacoffee-shield]: https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-2.svg
-[buymeacoffee]: https://www.buymeacoffee.com/sinclairpaul
+[kofi-shield]: https://ko-fi.com/img/githubbutton_sm.svg
+[kofi]: https://ko-fi.com/B0B1Z4JM
